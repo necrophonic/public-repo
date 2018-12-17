@@ -1,7 +1,7 @@
-import requests
+from requests import Session
 
 def run():
-  pass
+  print("Hello world!")
 
 
 if __name__ == '__main__':
